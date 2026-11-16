@@ -1,0 +1,10 @@
+{
+  "title": "Forge Studio",
+  "description": "An AI creative studio on Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card: pictures, video, animation, 360 worlds and a timeline editor.",
+  "icon": "icon.png",
+  "platform": "win32",
+  "gpu": "nvidia",
+  "links": [
+    { "title": "GitHub", "url": "https://github.com/Shai7net/forge-studio" }
+  ]
+}
