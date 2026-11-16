@@ -1,11 +1,24 @@
 # Forge Studio for Pinokio
 
 A 1-click launcher for [Forge Studio](https://github.com/Shai7net/forge-studio): an AI creative studio built on
-Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card (FLUX 3, FIBO 2.0, SDXL / SD 1.5, Wan 2.2 video,
+Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card (FLUX 3, FIBO 2.0, SDXL / SD 1.5, Wan 2.2 and LTX 2.3 video,
 AnimateDiff, Deforum, Simulation 360, Time Strata, Characters, a timeline video editor and a prompt writer for any
 language).
 
 **Windows 10/11 and an NVIDIA card with 8 GB or more only** (like Forge Studio itself).
+
+## See it
+
+<table>
+<tr>
+<td width="30%" align="center"><a href="media/forge-studio-film.mp4"><img src="media/film-poster.jpg" alt="Forge Studio film" width="240"></a><br><a href="media/forge-studio-film.mp4"><b>▶ The film (23 s)</b></a><br><sub>Every shot, and the music, made in Forge Studio</sub></td>
+<td><a href="media/forge-studio.png"><img src="media/forge-studio.png" alt="Forge Studio: the timeline video editor"></a><br><sub><b>Forge Studio</b>: the timeline video editor</sub></td>
+</tr>
+</table>
+
+| | |
+|---|---|
+| <a href="media/txt2img.png"><img src="media/txt2img.png" alt="txt2img with extension cards and the timeline bar"></a><br><sub><b>txt2img</b>: extension cards, and the timeline under the result</sub> | <a href="media/video-studio.png"><img src="media/video-studio.png" alt="Video Studio, Text to Video"></a><br><sub><b>Video Studio</b>: Wan 2.2 and LTX 2.3 video from words</sub> |
 
 ## Use
 
