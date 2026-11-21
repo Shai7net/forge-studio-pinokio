@@ -7,11 +7,18 @@ language).
 
 **Windows 10/11 and an NVIDIA card with 8 GB or more only** (like Forge Studio itself).
 
-## What's new (0.1.8)
+## What's new (0.1.9)
+
+- **One click for a video model**: in Video Studio → Models, choose a model and press *Download and set up this
+  model*. Its files download and its engine is set up in the same click (MiniMax-H3 builds FIBO 2.0's engine first
+  when it is missing).
+- **Fast downloads**: Forge Studio now brings aria2c, so big model files come in 8 connections at once and resume
+  where they stopped.
+
+## 0.1.8
 
 - **MiniMax-H3 FL2V · W4A8 · 8 GB** in Video Studio, beside Wan 2.2 and LTX 2.3: text, image and first + last frame
-  video on an 8 GB card. In Video Studio → Models: download its files and press *Set up MiniMax-H3 engine* (after
-  FIBO 2.0's engine).
+  video on an 8 GB card.
 - **Image + Audio to Video** picks LTX by itself and makes the whole recording, even longer than 8 seconds; length,
   shape and frame rate come from your picture or video.
 - **Editor**: ⏪ Reverse in a clip's right-click menu, AI joins between shots that keep every track in step, and 🌐 in
