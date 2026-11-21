@@ -1,11 +1,24 @@
 # Forge Studio for Pinokio
 
 A 1-click launcher for [Forge Studio](https://github.com/Shai7net/forge-studio): an AI creative studio built on
-Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card (FLUX 3, FIBO 2.0, SDXL / SD 1.5, Wan 2.2 and LTX 2.3 video,
+Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card (FLUX 3, FIBO 2.0, SDXL / SD 1.5, Wan 2.2, LTX 2.3 and MiniMax-H3 video,
 AnimateDiff, Deforum, Simulation 360, Time Strata, Characters, a timeline video editor and a prompt writer for any
 language).
 
 **Windows 10/11 and an NVIDIA card with 8 GB or more only** (like Forge Studio itself).
+
+## What's new (0.1.8)
+
+- **MiniMax-H3 FL2V · W4A8 · 8 GB** in Video Studio, beside Wan 2.2 and LTX 2.3: text, image and first + last frame
+  video on an 8 GB card. In Video Studio → Models: download its files and press *Set up MiniMax-H3 engine* (after
+  FIBO 2.0's engine).
+- **Image + Audio to Video** picks LTX by itself and makes the whole recording, even longer than 8 seconds; length,
+  shape and frame rate come from your picture or video.
+- **Editor**: ⏪ Reverse in a clip's right-click menu, AI joins between shots that keep every track in step, and 🌐 in
+  every prompt box to write the English prompt from Hebrew or any language.
+- Smoother playback, Lip sync without stutter, and Stop that really stops an AI job.
+
+Already installed? Press **Update** in Pinokio. All changes: [releases](https://github.com/Shai7net/forge-studio/releases).
 
 ## See it
 
@@ -18,7 +31,7 @@ language).
 
 | | |
 |---|---|
-| <a href="media/txt2img.png"><img src="media/txt2img.png" alt="txt2img with extension cards and the timeline bar"></a><br><sub><b>txt2img</b>: extension cards, and the timeline under the result</sub> | <a href="media/video-studio.png"><img src="media/video-studio.png" alt="Video Studio, Text to Video"></a><br><sub><b>Video Studio</b>: Wan 2.2 and LTX 2.3 video from words</sub> |
+| <a href="media/txt2img.png"><img src="media/txt2img.png" alt="txt2img with extension cards and the timeline bar"></a><br><sub><b>txt2img</b>: extension cards, and the timeline under the result</sub> | <a href="media/video-studio.png"><img src="media/video-studio.png" alt="Video Studio, Text to Video"></a><br><sub><b>Video Studio</b>: Wan 2.2, LTX 2.3 and MiniMax-H3 video</sub> |
 
 ## Use
 

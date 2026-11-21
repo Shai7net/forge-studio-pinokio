@@ -1,6 +1,6 @@
 {
   "title": "Forge Studio",
-  "description": "An AI creative studio on Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card: pictures, video, animation, 360 worlds and a timeline editor.",
+  "description": "An AI creative studio on Stable Diffusion WebUI Forge for one PC with an 8 GB NVIDIA card: pictures, video (Wan 2.2, LTX 2.3, MiniMax-H3), animation, 360 worlds and a timeline editor.",
   "icon": "icon.png",
   "platform": "win32",
   "gpu": "nvidia",
